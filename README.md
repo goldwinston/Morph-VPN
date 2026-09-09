@@ -8,7 +8,7 @@
 [![Version](https://img.shields.io/badge/Version-V2.0.3-purple?style=for-the-badge)](https://github.com/goldwinston/Morph-VPN)
 [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-informational?style=for-the-badge)](https://github.com/goldwinston/Morph-VPN)
 
-<img width="431" height="776" alt="image" src="https://github.com/user-attachments/assets/4ef62f7d-ae93-49c3-b622-320eaf75e7ba" />
+<img width="469" height="845" alt="image" src="https://github.com/user-attachments/assets/696d91f7-c82e-4b18-bafd-799e234af72e" />
 <img width="1745" height="587" alt="image" src="https://github.com/user-attachments/assets/1bb40c97-d8ef-4126-935b-ef4e32202d80" />
 
 **Morph VPN** — это надёжный VPN-клиент с поддержкой Xray-core, обеспечивающий полную анонимность, обход блокировок и высокую скорость соединения.
